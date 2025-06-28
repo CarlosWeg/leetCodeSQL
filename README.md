@@ -19,6 +19,8 @@ Cada arquivo `.sql` contém:
 | 1158 | Market Analysis I                          | [LeetCode 1158](https://leetcode.com/problems/market-analysis-i/)                         | 1158-market-analysis.sql                           |
 | 176  | Second Highest Salary                      | [LeetCode 176](https://leetcode.com/problems/second-highest-salary/)                      | 176-second-highest-salary.sql                      |
 | 176  | Second Highest Salary (v2)                 | [LeetCode 176](https://leetcode.com/problems/second-highest-salary/)                      | 176-second-highest-salary-v2.sql                   |
+| 177  | Nth Highest Salary                         | [LeetCode 177](https://leetcode.com/problems/nth-highest-salary/)                         | 177-nth-highhest-salary.sql                        |
+| 177  | Nth Highest Salary (v2)                    | [LeetCode 177](https://leetcode.com/problems/nth-highest-salary/)                         | 177-nth-highhest-salary-v2.sql                     |
 | 181  | Employees Earning More Than Their Managers | [LeetCode 181](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | 181-employees-earning-more-than-their-managers.sql |
 | 182  | Duplicate Emails                           | [LeetCode 182](https://leetcode.com/problems/duplicate-emails/)                           | 182-duplicate-emails.sql                           |
 | 182  | Duplicate Emails (v2)                      | [LeetCode 182](https://leetcode.com/problems/duplicate-emails/)                           | 182-duplicate-emails-v2.sql                        |
@@ -29,6 +31,6 @@ Cada arquivo `.sql` contém:
 | 196  | Delete Duplicate Emails                    | [LeetCode 196](https://leetcode.com/problems/delete-duplicate-emails/)                    | 196-delete-duplicate-emails.sql                    |
 | 196  | Delete Duplicate Emails (v2)               | [LeetCode 196](https://leetcode.com/problems/delete-duplicate-emails/)                    | 196-delete-duplicate-emails-v2.sql                 |
 | 197  | Rising Temperature                         | [LeetCode 197](https://leetcode.com/problems/rising-temperature/)                         | 197-rising-temperature.sql                         |
+| 262  | Trips and Users                            | [LeetCode 262](https://leetcode.com/problems/trips-and-users/)                            | 262-trips-and-users.sql                            |
 | 585  | Investments in 2016                        | [LeetCode 585](https://leetcode.com/problems/investments-in-2016/)                        | 585-investments-in-2016.sql                        |
 | 585  | Investments in 2016 (v2)                   | [LeetCode 585](https://leetcode.com/problems/investments-in-2016/)                        | 585-investments-in-2016-v2.sql                     |
-
