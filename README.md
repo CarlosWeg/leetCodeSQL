@@ -12,8 +12,6 @@ Cada arquivo `.sql` contém:
 
 ## 📌 Problemas resolvidos
 
-## 📌 Problemas resolvidos
-
 | Nº   | Título                                     | Link do Problema                                                                          | Arquivo                                                                                                  |
 | ---- | ------------------------------------------ | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
 | 176  | Second Highest Salary                      | [LeetCode 176](https://leetcode.com/problems/second-highest-salary/)                      | [176-second-highest-salary.sql](176-second-highest-salary.sql)                                           |
