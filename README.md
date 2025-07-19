@@ -12,21 +12,8 @@ Cada arquivo `.sql` contém:
 
 ## 📌 Problemas resolvidos
 
-## 📌 Problemas resolvidos
-
 | Nº   | Título                                     | Link do Problema                                                                          | Arquivo |
 |------|--------------------------------------------|--------------------------------------------------------------------------------------------|---------|
-| 1045 | Customers Who Bought All Products          | [LeetCode 1045](https://leetcode.com/problems/customers-who-bought-all-products/)         | [1045-customers-who-bought-all-products.sql](1045-customers-who-bought-all-products.sql) |
-| 1045 | Customers Who Bought All Products (v2)     | [LeetCode 1045](https://leetcode.com/problems/customers-who-bought-all-products/)         | [1045-customers-who-bought-all-products-v2.sql](1045-customers-who-bought-all-products-v2.sql) |
-| 1070 | Product Sales Analysis III                 | [LeetCode 1070](https://leetcode.com/problems/product-sales-analysis-iii/)                | [1070-product-sales-analysis-3.sql](1070-product-sales-analysis-3.sql) |
-| 1158 | Market Analysis                            | [LeetCode 1158](https://leetcode.com/problems/market-analysis/)                           | [1158-market-analysis.sql](1158-market-analysis.sql) |
-| 1164 | Product Price at a Given Date              | [LeetCode 1164](https://leetcode.com/problems/product-price-at-a-given-date/)             | [1164-product-price-at-a-given-date.sql](1164-product-price-at-a-given-date.sql) |
-| 1174 | Immediate Food Delivery II                 | [LeetCode 1174](https://leetcode.com/problems/immediate-food-delivery-ii/)                | [1174-immediate-food-delivery-2.sql](1174-immediate-food-delivery-2.sql) |
-| 1193 | Monthly Transactions I                     | [LeetCode 1193](https://leetcode.com/problems/monthly-transactions-i/)                    | [1193-monthly-transactions-1.sql](1193-monthly-transactions-1.sql) |
-| 1204 | Last Person to Fit in the Bus              | [LeetCode 1204](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)             | [1204-last-person-to-fit-in-the-bus.sql](1204-last-person-to-fit-in-the-bus.sql) |
-| 1204 | Last Person to Fit in the Bus (v2)         | [LeetCode 1204](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)             | [1204-last-person-to-fit-in-the-bus-v2.sql](1204-last-person-to-fit-in-the-bus-v2.sql) |
-| 1321 | Restaurant Growth                          | [LeetCode 1321](https://leetcode.com/problems/restaurant-growth/)                         | [1321-restaurant-growth.sql](1321-restaurant-growth.sql) |
-| 1321 | Restaurant Growth (v2)                     | [LeetCode 1321](https://leetcode.com/problems/restaurant-growth/)                         | [1321-restaurant-growth-v2.sql](1321-restaurant-growth-v2.sql) |
 | 176  | Second Highest Salary                      | [LeetCode 176](https://leetcode.com/problems/second-highest-salary/)                      | [176-second-highest-salary.sql](176-second-highest-salary.sql) |
 | 176  | Second Highest Salary (v2)                 | [LeetCode 176](https://leetcode.com/problems/second-highest-salary/)                      | [176-second-highest-salary-v2.sql](176-second-highest-salary-v2.sql) |
 | 177  | Nth Highest Salary                         | [LeetCode 177](https://leetcode.com/problems/nth-highest-salary/)                         | [177-nth-highhest-salary.sql](177-nth-highhest-salary.sql) |
@@ -51,9 +38,28 @@ Cada arquivo `.sql` contém:
 | 585  | Investments in 2016                        | [LeetCode 585](https://leetcode.com/problems/investments-in-2016/)                        | [585-investments-in-2016.sql](585-investments-in-2016.sql) |
 | 585  | Investments in 2016 (v2)                   | [LeetCode 585](https://leetcode.com/problems/investments-in-2016/)                        | [585-investments-in-2016-v2.sql](585-investments-in-2016-v2.sql) |
 | 586  | Customer Placing the Largest Number of Orders | [LeetCode 586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/) | [586-customer-placing-the-largest-number-of-orders.sql](586-customer-placing-the-largest-number-of-orders.sql) |
+| 601  | Human Traffic of Stadium                   | [LeetCode 601](https://leetcode.com/problems/human-traffic-of-stadium/)                   | [601-human-traffic-of-stadium.sql](601-human-traffic-of-stadium.sql) |
 | 602  | Friend Requests II: Who Has the Most Friends | [LeetCode 602](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [602-friend-requests-2-who-has-the-most-friends.sql](602-friend-requests-2-who-has-the-most-friends.sql) |
 | 602  | Friend Requests II: Who Has the Most Friends (v2) | [LeetCode 602](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [602-friend-requests-2-who-has-the-most-friends-v2.sql](602-friend-requests-2-who-has-the-most-friends-v2.sql) |
 | 608  | Tree Node                                  | [LeetCode 608](https://leetcode.com/problems/tree-node/)                                  | [608-tree-node.sql](608-tree-node.sql) |
 | 608  | Tree Node (v2)                             | [LeetCode 608](https://leetcode.com/problems/tree-node/)                                  | [608-tree-node-v2.sql](608-tree-node-v2.sql) |
 | 619  | Biggest Single Number                      | [LeetCode 619](https://leetcode.com/problems/biggest-single-number/)                      | [619-biggest-single-number.sql](619-biggest-single-number.sql) |
 | 626  | Exchange Seats                             | [LeetCode 626](https://leetcode.com/problems/exchange-seats/)                             | [626-exchange-seats.sql](626-exchange-seats.sql) |
+| 1045 | Customers Who Bought All Products          | [LeetCode 1045](https://leetcode.com/problems/customers-who-bought-all-products/)         | [1045-customers-who-bought-all-products.sql](1045-customers-who-bought-all-products.sql) |
+| 1045 | Customers Who Bought All Products (v2)     | [LeetCode 1045](https://leetcode.com/problems/customers-who-bought-all-products/)         | [1045-customers-who-bought-all-products-v2.sql](1045-customers-who-bought-all-products-v2.sql) |
+| 1070 | Product Sales Analysis III                 | [LeetCode 1070](https://leetcode.com/problems/product-sales-analysis-iii/)                | [1070-product-sales-analysis-3.sql](1070-product-sales-analysis-3.sql) |
+| 1158 | Market Analysis I                          | [LeetCode 1158](https://leetcode.com/problems/market-analysis-i/)                         | [1158-market-analysis.sql](1158-market-analysis.sql) |
+| 1164 | Product Price at a Given Date              | [LeetCode 1164](https://leetcode.com/problems/product-price-at-a-given-date/)             | [1164-product-price-at-a-given-date.sql](1164-product-price-at-a-given-date.sql) |
+| 1174 | Immediate Food Delivery II                 | [LeetCode 1174](https://leetcode.com/problems/immediate-food-delivery-ii/)                | [1174-immediate-food-delivery-2.sql](1174-immediate-food-delivery-2.sql) |
+| 1193 | Monthly Transactions I                     | [LeetCode 1193](https://leetcode.com/problems/monthly-transactions-i/)                    | [1193-monthly-transactions-1.sql](1193-monthly-transactions-1.sql) |
+| 1204 | Last Person to Fit in the Bus              | [LeetCode 1204](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)             | [1204-last-person-to-fit-in-the-bus.sql](1204-last-person-to-fit-in-the-bus.sql) |
+| 1204 | Last Person to Fit in the Bus (v2)         | [LeetCode 1204](https://leetcode.com/problems/last-person-to-fit-in-the-bus/)             | [1204-last-person-to-fit-in-the-bus-v2.sql](1204-last-person-to-fit-in-the-bus-v2.sql) |
+| 1321 | Restaurant Growth                          | [LeetCode 1321](https://leetcode.com/problems/restaurant-growth/)                         | [1321-restaurant-growth.sql](1321-restaurant-growth.sql) |
+| 1321 | Restaurant Growth (v2)                     | [LeetCode 1321](https://leetcode.com/problems/restaurant-growth/)                         | [1321-restaurant-growth-v2.sql](1321-restaurant-growth-v2.sql) |
+| 1393 | Capital Gain/Loss                          | [LeetCode 1393](https://leetcode.com/problems/capital-gainloss/)                          | [1393-capital-gain-loss.sql](1393-capital-gain-loss.sql) |
+| 1907 | Count Salary Categories                    | [LeetCode 1907](https://leetcode.com/problems/count-salary-categories/)                   | [1907-count-salary-categories.sql](1907-count-salary-categories.sql) |
+| 1907 | Count Salary Categories (v2)               | [LeetCode 1907](https://leetcode.com/problems/count-salary-categories/)                   | [1907-count-salary-categories-v2.sql](1907-count-salary-categories-v2.sql) |
+| 1934 | Confirmation Rate                          | [LeetCode 1934](https://leetcode.com/problems/confirmation-rate/)                         | [1934-confirmation-rate.sql](1934-confirmation-rate.sql) |
+| 3421 | Find Students Who Improved                 | [LeetCode 3421](https://leetcode.com/problems/find-students-who-improved/)                | [3421-find-students-who-improved.sql](3421-find-students-who-improved.sql) |
+| 3421 | Find Students Who Improved (v2)            | [LeetCode 3421](https://leetcode.com/problems/find-students-who-improved/)                | [3421-find-students-who-improved-v2.sql](3421-find-students-who-improved-v2.sql) |
+| 3421 | Find Students Who Improved (v3)            | [LeetCode 3421](https://leetcode.com/problems/find-students-who-improved/)                | [3421-find-students-who-improved-v3.sql](3421-find-students-who-improved-v3.sql) |
